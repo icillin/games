@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <updateinfo>
 <data>
 </data>
 <app>
+<ver>20130422</ver>
+<url>https://raw.github.com/icillin/games/master/ColorBall/colorball.apk</url>
+<md5>d8f1163fcbe96b69521e8dc17b4667e0</md5>
 </app>
-<app2>
-</app2>
 </updateinfo>
